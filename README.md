@@ -40,6 +40,6 @@ L’heure locale de Grande Prairie (**MST = UTC–7**) est donnée à titre indi
 
 ## 📂 Emplacement local
 
-Le projet est hébergé sur ma machine à l’adresse :
+Le projet est hébergé sur ma machine à l’adresse : C:\CNick\LetsCode\Projects\coding-baby-steps
 
 
